@@ -1,0 +1,42 @@
+1643687874106	geckodriver	INFO	Listening on 127.0.0.1:58893
+1643687877212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58894" "-no-remote" "-profile" "C:\\Users\\seema\\AppData\\Local\\Temp\\rust_mozprofileMclXaE"
+1643687877823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\seema\\AppData\\Local\\Temp\\rust_mozprofileMclXaE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58894/devtools/browser/475b99a7-2ad9-41df-953f-952891218e26
+1643687881375	Marionette	INFO	Listening on port 58901
+1643687881566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643687921846	Marionette	INFO	Stopped listening on port 58901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643688001493	geckodriver	INFO	Listening on 127.0.0.1:52096
+1643688004564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52097" "-no-remote" "-profile" "C:\\Users\\seema\\AppData\\Local\\Temp\\rust_mozprofileGm3LZS"
+1643688005199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\seema\\AppData\\Local\\Temp\\rust_mozprofileGm3LZS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52097/devtools/browser/c3a8a947-ffa5-49e7-9a7c-bec9c642590d
+1643688008049	Marionette	INFO	Listening on port 52103
+1643688008287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d68455d2cf0fe12, line 4: unreachable code after return statement
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d68455d2cf0fe12 line 1 > Function, line 4: unreachable code after return statement
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d68465a29c8fdfe, line 4: unreachable code after return statement
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d68465a29c8fdfe line 1 > Function, line 4: unreachable code after return statement
+1643688103529	Marionette	INFO	Stopped listening on port 52103
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643688109465	geckodriver	INFO	Listening on 127.0.0.1:52218
+1643688112562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52219" "-no-remote" "-profile" "C:\\Users\\seema\\AppData\\Local\\Temp\\rust_mozprofile5xr6Gw"
+1643688112985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\seema\\AppData\\Local\\Temp\\rust_mozprofile5xr6Gw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52219/devtools/browser/07f4ffdd-c04a-4650-8a95-b7cdf8b3acd0
+1643688116059	Marionette	INFO	Listening on port 52226
+1643688116290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d684816daa2fe0e, line 4: unreachable code after return statement
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d684816daa2fe0e line 1 > Function, line 4: unreachable code after return statement
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d6848496b1afe0e, line 4: unreachable code after return statement
+JavaScript warning: https://app.hubspot.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6d6848496b1afe0e line 1 > Function, line 4: unreachable code after return statement
+1643688195471	Marionette	INFO	Stopped listening on port 52226
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
